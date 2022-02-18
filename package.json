@@ -1,0 +1,14 @@
+{
+  "name": "class-18",
+  "version": "1.0.0",
+  "description": "this is a REST APIC for  mobile app and react developer",
+  "main": "index.js",
+  "scripts": {
+    "sajjad" : "json-server --watch db.json --port 5050"
+  },
+  "author": "Sajjad",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

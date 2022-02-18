@@ -1,0 +1,85 @@
+{
+   "products" : [
+       {
+           "id"         :   1,
+           "photo"      :   "https://static.zajo.net/content/mediagallery/zajo_dcat/image/product/types/X/9088.png",
+           "name"       :   "T-shirt new",
+           "category"   :   "T-shirt",
+           "price"      :   200,
+           "Brand"      :   "eva-solo"
+           
+       },
+       {
+            "id"        :   2,
+            "photo"     :   "https://media.gettyimages.com/photos/blank-black-tshirt-front-with-clipping-path-picture-id483960103?s=612x612",
+            "name"      :   "Black t-shirt",
+            "category"  :   "T-shirt",
+            "price"     :   300,
+            "Brand"     :   "eva-solo"
+        },
+        {
+            "id"        :   3,
+            "photo"     :   "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4n2ZNNdojOBJI9fq0jYVvpaafmo49XM1Opw&usqp=CAU",
+            "name"      :   "Nave-blue t-shirt",
+            "category"  :   "T-shirt",
+            "price"     :   350,
+            "Brand"     :   "eva-solo"
+        },
+        {
+            "id"        :   4,
+            "photo"     :   "https://static.fibre2fashion.com/MemberResources/LeadResources/1/2017/9/Seller/17133153/Images/17133153_0_men-s-t-shirt.jpg",
+            "name"      :   "Black-white t-shirt",
+            "category"  :   "T-shirt",
+            "price"     :   400,
+            "Brand"     :   "eva-solo"
+        },
+        {
+            "id"        :   5,
+            "photo"     :   "https://st.depositphotos.com/1017986/2626/i/600/depositphotos_26263587-stock-photo-man-in-blank-t-shirt.jpg",
+            "name"      :   "Blue t-shirt",
+            "category"  :   "T-shirt",
+            "price"     :   450,
+            "Brand"     :   "eva-solo"
+        },
+        {
+            "id"        :   6,
+            "photo"     :   "https://images-eu.ssl-images-amazon.com/images/I/41nvyksD5lL._AC._SR360,460.jpg",
+            "name"      :   " White new t-shirt",
+            "category"  :   "T-shirt",
+            "price"     :   370,
+            "Brand"     :   "eva-solo"
+        },
+        {
+            "id"        :   7,
+            "photo"     :   "https://shop.tate.org.uk/dw/image/v2/BBPB_PRD/on/demandware.static/-/Sites-TateMasterShop/default/dwaa107262/tate-logo-black--tshirt-back-g1086.jpg?sw=556",
+            "name"      :   "Golden black t-shirt",
+            "category"  :   "T-shirt",
+            "price"     :   420,
+            "Brand"     :   "eva-solo"
+        },
+        {
+            "id"        :   8,
+            "photo"     :   "https://5.imimg.com/data5/SH/GC/MY-8764775/mens-t-shirt-500x500.jpg",   
+            "name"      :   "Yellow black",
+            "category"  :   "T-shirt",
+            "price"     :   470,
+            "Brand"     :   "eva-solo"
+        },
+        {
+            "id"        :   9,
+            "photo"     :   "https://images.prismic.io/rushordertees-web/c46d32cd-469a-49a9-b175-7362171d29a7_Custom+Short+Sleeve+T-Shirt.jpg?auto=compress%2Cformat&rect=0%2C0%2C800%2C900&w=800",
+            "name"      :   "Red blue shirt",
+            "category"  :   "T-shirt",
+            "price"     :   370,
+            "Brand"     :   "eva-solo"
+        },
+        {
+            "id"        :   10,
+            "photo"     :   "https://rukminim1.flixcart.com/image/332/398/kjkbv680-0/t-shirt/9/v/o/m-t285hs-as7whdngr-seven-rocks-original-imafz3wkfs8pevqc.jpeg?q=50",
+            "name"      :   "White step shirt",
+            "category"  :   "T-shirt",
+            "price"     :   370,
+            "Brand"     :   "eva-solo"
+        }
+   ]
+}
